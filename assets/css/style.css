@@ -1,0 +1,8 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+img[src="thumbnail"] {
+    border-radius: 25px;
+}
