@@ -1,5 +1,7 @@
 ## Welcome to my place of Knowledge!
-<img src="https://i.imgur.com/735DznM.png" alt="Zach Doll" title="My Picture"/>
+<img src="https://i.imgur.com/735DznM.png" alt="Zach Doll" title="My Picture"/> Hello! I'm Zach and I'm a software enginner, tinkerer, and gamer. I love all things tech from automating things around the house to diving into a new language or script. I have a background in IT and have an incessant need to continue learning.  
+
+# Resume
 
 ## Projects
 [Game LIBR](https://game-libr.herokuapp.com/) This was my first project and it was a site that pulled game data from an api and allows you to put it into your collection. 
