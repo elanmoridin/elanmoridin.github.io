@@ -14,7 +14,7 @@ Hello! I'm Zach and I'm a software enginner, tinkerer, and gamer. I love all thi
 [Github Link](https://github.com/elanmoridin/game-libr)  
 This was my first project and it was a site that pulled game data from an api and allows you to put it into your collection.  
 
-Built with:
+#### Built with:
 - HTML  
 - CSS  
 - Javascript  
@@ -24,7 +24,7 @@ Built with:
 [Github Link](https://github.com/elanmoridin/book-share)  
 This project was based around the concept of letting users in a community signup and add their books to a community collection that others can check out from.  
 
-Built as a full CRUD app using:
+#### Built as a full CRUD app using:
 - Node.js  
 - Mongoose  
 - Express  
@@ -37,7 +37,7 @@ Worked within the MVC file structure and included 7 routes for full CRUD
 [Github Link React](https://github.com/elanmoridin/bridge-api)  
 This project was based around creating a bridge to other users through shared interest like sports, movies, music, and books.  
 
-Built as full CRUD using the MERN stack:
+#### Built as full CRUD using the MERN stack:
 - Node.js  
 - Mongoose  
 - Express  
