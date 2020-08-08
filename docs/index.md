@@ -23,8 +23,8 @@ Built with:
 [Community Book Share Live Site](https://community-book-share.herokuapp.com/)  
 [Github Link](https://github.com/elanmoridin/book-share)  
 This project was based around the concept of letting users in a community signup and add their books to a community collection that others can check out from.  
-Built as a full CRUD app using:  
 
+Built as a full CRUD app using:  
 - Node.js  
 - Mongoose  
 - Express  
@@ -36,8 +36,8 @@ Worked within the MVC file structure and included 7 routes for full CRUD
 [Github Link Backend](https://github.com/elanmoridin/bridge-api)  
 [Github Link React](https://github.com/elanmoridin/bridge-api)  
 This project was based around creating a bridge to other users through shared interest like sports, movies, music, and books.  
-Built as full CRUD using the MERN stack:  
 
+Built as full CRUD using the MERN stack:  
 - Node.js  
 - Mongoose  
 - Express  
