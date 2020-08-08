@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/elanmoridin/elanmoridin.io/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to my place of Knowledge!
+![Zach Doll](https://imgur.com/a/3FImBhb)
 
 ## Projects
 [Game LIBR](https://game-libr.herokuapp.com/) This was my first project and it was a site that pulled game data from an api and allows you to put it into your collection. 
