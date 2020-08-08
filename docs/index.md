@@ -1,5 +1,9 @@
 ## Welcome to my place of Knowledge!
-![Zach Doll](https://i.imgur.com/LDJ1313.jpg)
+![Zach Doll](https://i.imgur.com/LDJ1313.jpg#thumbnail)
+img[src~="thumbnail"] {
+    width: 150px;
+    height: 150px;
+}
 
 ## Projects
 [Game LIBR](https://game-libr.herokuapp.com/) This was my first project and it was a site that pulled game data from an api and allows you to put it into your collection. 
