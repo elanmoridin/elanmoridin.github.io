@@ -1,7 +1,11 @@
-<img align="center" src="https://i.imgur.com/735DznM.png" alt="Zach Doll" title="My Picture" />  Hello! I'm Zach and I'm a software enginner, tinkerer, and gamer. I love all things tech from automating things around the house to diving into a new language or script. I have a background in IT and have an incessant need to continue learning.  
+<p align="center">
+<img src="https://i.imgur.com/735DznM.png" alt="Zach Doll" title="My Picture" />
+</p>  
 
-->## Zach Doll<-
-->### Software Engineer<-
+Hello! I'm Zach and I'm a software enginner, tinkerer, and gamer. I love all things tech from automating things around the house to diving into a new language or script. I have a background in IT and have an incessant need to continue learning.  
+
+## Zach Doll
+### Software Engineer
 
 ### Resume
 
