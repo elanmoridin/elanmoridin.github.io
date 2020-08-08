@@ -20,10 +20,10 @@
 
         <section id="downloads">
           {% if site.show_downloads %}
-            <a href="{{ linkedin_url }}" class="btn">LinkedIn</a>
-            <a href="{{ twitter_url }}" class="btn btn-twitter">Twitter</a>
+            <a href="{{ site.github.linkedin_url }}" class="btn">LinkedIn</a>
+            <a href="{{ site.github.twitter_url }}" class="btn btn-twitter">Twitter</a>
           {% endif %}
-          <a href="{{ github_profile }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
+          <a href="{{ site.github.github_profile }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
         </section>
       </div>
     </header>
