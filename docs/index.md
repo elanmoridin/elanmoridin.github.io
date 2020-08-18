@@ -43,4 +43,15 @@ This project was based around creating a bridge to other users through shared in
 - Express  
 - React  
 
-MVC file structure Group project working with 3 others off of Github dev branches
+MVC file structure Group project working with 3 others off of Github dev branches  
+
+[Slammin Newz Live Site](https://slammin-newz.web.app/)  
+[Github Link React](https://github.com/elanmoridin/slammin-front-end)   
+This project was based around bringing people together who love professional wrestling. It has a news aggregator that pulls daily and weekly news from an api as well as authentication through Firebase using email and sign in with Google. Once a user has signed in they have access to a chat that is setup using a real time database from Firebase.
+
+#### Built as full CRUD using the MERN stack: 
+- Firebase Authentication
+- Firebase Realtime Database
+- React  
+
+A take on MVC fire structure with a container for Firebase, Components, and Pages.
