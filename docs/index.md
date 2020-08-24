@@ -8,6 +8,7 @@
 Hello! I'm Zach and I'm a software engineer, tinkerer, and gamer. I love all things tech from automating things around the house to diving into a new language or script. I have a background in IT and have an incessant need to continue learning.  
 
 ### [Resume]({{site.baseurl}}{% link resume.md %})
+<a href="{{site.baseurl}}{% link resume.md %}" class="btn">Resume</a>
 
 ## Projects
 [Game LIBR Live Site](https://game-libr.herokuapp.com/)  
