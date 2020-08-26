@@ -1,5 +1,5 @@
 <a href="{{site.baseurl}}{% link index.md %}" class="btn">Back</a>
-[PDF Version]({{site.github}}/docs/downloads/zach_doll.pdf)  
+[PDF Version]({{site.url}}/docs/downloads/zach_doll.pdf)  
 
 # Zach Doll  
 ### Passionate and authentic software engineer who keeps it simple by meticulous project execution with excellent people skills who excels at communicating to people of all types of technical background.  
